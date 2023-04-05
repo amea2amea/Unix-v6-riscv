@@ -1,0 +1,7 @@
+{
+    "editor.formatOnType": true,
+    "editor.formatOnSave": true,
+    "files.associations": {
+        "cstdio": "c"
+    },
+}
